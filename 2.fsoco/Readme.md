@@ -1,6 +1,6 @@
 # Guia instalacion fsoco
 ## 1. Instalador:
-
+hola
 >sudo su
 
 >git clone https://github.com/ibaicolegio/FSV.git
